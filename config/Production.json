@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://geshita03:geshita03!@cluster0-gcaer.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://eshita:eshita@devconnectordb.f2h2a58.mongodb.net/?appName=DevConnectorDB",
   "jwtSecret": "mysecrettoken",
   "githubclientid": "d83f9dd9d24602544b2b",
   "githubsecret": "3fff9fc9b4b3fb0b1df4adb68647ac89089e1671"
