@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const config = require("config");
 //const db = config.get("mongoURI");
-const db = process.env.mongoURI;
+const db = process.env.mongoURI; //for vercel to take env var
 
 //arrow function
 //asynchronous
